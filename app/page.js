@@ -1,10 +1,18 @@
-import { Table } from "@/components/ui/table";
-import Image from "next/image";
+
+import PopularBlog from "@/components/PopularBlog";
+import Testimonial from "@/components/Testimonial";
+import Tophome from "@/components/Tophome";
+import TopProject from "@/components/TopProject";
 
 export default function Home() {
   return (
-    <div>
-      hey this is monika
-    </div>
+   <main>
+   
+      <Tophome/>
+      <TopProject/>
+      <Testimonial/>
+      <PopularBlog/>
+    
+   </main>
   );
 }
