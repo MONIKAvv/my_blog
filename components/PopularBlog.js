@@ -13,7 +13,7 @@ const PopularBlog = () => {
         {/* Blog 1 */}
         <div className="w-full sm:w-1/2 lg:w-1/3 p-4">
           <div className="p-6 bg-white rounded-lg shadow-lg dark:bg-gray-800 transform transition duration-500 hover:scale-105">
-            <img src="/typescript.webp" className="w-full h-64 object-cover rounded-t-lg"/>
+            <img src="https://images.pexels.com/photos/1181472/pexels-photo-1181472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Blog 2" className="w-full h-64 object-cover rounded-t-lg"/>
             <div className="mt-4">
               <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-200">Blog Post Title 1</h3>
               <p className="mt-2 text-gray-600 dark:text-gray-400">A brief description of the blog post goes here. It should be engaging and informative.</p>
