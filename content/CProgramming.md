@@ -2,7 +2,7 @@
 title: C Programming Tutorial
 description: This is c tutorial and this is for learning c
 # Slug should be same as the name of the file
-slug: cProgramming
+slug: CProgramming
 date: 02/03/2025
 author: Monika
 image: https://images.pexels.com/photos/1181472/pexels-photo-1181472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Blog 2" className="w-full h-64 object-cover rounded-t-lg

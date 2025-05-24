@@ -20,10 +20,10 @@ export default function About() {
             <div className="w-full md:w-2/3 flex flex-col justify-center ">
               <h1 className="text-4xl font-bold text-gray-800 dark:text-white mb-4">About Me</h1>
               <p className="text-gray-600 dark:text-gray-50 text-lg mb-4">
-                Hello! I&apos;m Monika, a passionate software developer and tech enthusiast. I created this blog to share my experiences, tips, and tutorials on various programming languages and technologies. I believe that learning should be a continuous journey, and I&apos;m here to help others on their path to mastering the art of coding.
+                Hello! I&apos;m Monika, a passionate software developer and tech enthusiast. I created this blog to share my experiences, tips, and tutorials on various programming languages and technologies. I believe that learning should be a continuous journey, and I&apos;m here to help others also myself on their path to mastering the art of coding.
               </p>
               <p className="text-gray-600 dark:text-gray-50 text-lg">
-                Whether you&apos;re just starting out or looking to sharpen your skills, you&apos;ll find a variety of resources and insights here. Let&apos;s explore the world of programming together!
+                Whether we&apos;re just starting out or looking to sharpen our skills, we&apos;ll find a variety of resources and insights if we have coursity. Let&apos;s explore the world of programming together!
               </p>
             </div>
           </div>
@@ -35,18 +35,18 @@ export default function About() {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold text-gray-900 dark:text-white">Monika&apos;s Journey as a Coder</h2>
             <p className="mt-4 text-lg text-gray-600 dark:text-gray-50">
-              From curious beginner to seasoned developer, here&apos;s how Monikanavigated the world of programming.
+              From curious beginner to seasoned developer, here&apos;s how Monika navigated the world of programming.
             </p>
           </div>
           <div className="space-y-12">
             <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3">
-                <img src="/3.jpg" alt="Monikaas a beginner" className="w-full rounded-lg shadow-lg" />
+                <img src="/3.jpg" alt="Monikas a beginner" className="w-full rounded-lg shadow-lg" />
               </div>
               <div className="md:w-2/3 md:pl-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">The Spark of Curiosity</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  Monika’s coding journey began in high school when he stumbled upon his first programming language—Python. What started as a simple curiosity quickly turned into a passion, as Monikaspent countless hours experimenting with code, building small projects, and learning the fundamentals of software development.
+                  Monika’s coding journey began in high school when she stumbled upon her first programming language—c++. What started as a simple curiosity quickly turned into a passion, as Monika spent countless hours experimenting with code, building small projects, and learning the fundamentals of software development.
                 </p>
               </div>
             </div>
@@ -58,12 +58,12 @@ export default function About() {
               <div className="md:w-2/3 md:pr-8 mt-8 md:mt-0">
                 <h3 className="text-2xl font-bold text-gray-800 dark:text-white">Diving Deeper</h3>
                 <p className="mt-4 text-gray-600 dark:text-gray-50">
-                  After mastering the basics, Monika’s thirst for knowledge grew. He began exploring more complex topics such as data structures, algorithms, and web development. Enrolling in online courses and attending coding bootcamps, Monikaquickly expanded his skill set, taking on freelance projects to apply his knowledge in real-world scenarios.
+                  After mastering the basics, Monika’s thirst for knowledge grew. She began exploring more complex topics such as data structures, algorithms, and web development. Enrolling in online courses and attending coding bootcamps, Monika quickly expanded her skill set, building projects to apply her knowledge in real-world scenarios.
                 </p>
               </div>
             </div>
 
-            <div className="flex flex-col md:flex-row items-center">
+            {/* <div className="flex flex-col md:flex-row items-center">
               <div className="md:w-1/3">
                 <img src="/1.jpg" alt="Monikaworking on a big project" className="w-full rounded-lg shadow-lg" />
               </div>
@@ -73,7 +73,7 @@ export default function About() {
                   With several years of experience under his belt, Monikabegan tackling more significant challenges. From contributing to open-source projects to developing his own applications, Monikacontinued to push his limits, always looking for opportunities to learn and grow. His journey wasn’t without its setbacks, but each obstacle was a stepping stone to becoming the skilled developer he is today.
                 </p>
               </div>
-            </div>
+            </div> */}
 
             <div className="flex flex-col md:flex-row-reverse items-center">
               <div className="md:w-1/3">

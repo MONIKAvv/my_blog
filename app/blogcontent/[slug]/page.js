@@ -30,7 +30,7 @@ export default async function Page({ params }) {
     const processor = unified()
     .use(remarkParse)
     .use(remarkRehype)
-    .use(rehypeDocument, {title: '👋🌍'})
+    .use(rehypeDocument, {title: `Monika Profile`})
     .use(rehypeFormat)
     .use(rehypeStringify) 
     .use(rehypeSlug)

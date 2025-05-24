@@ -9,7 +9,7 @@ import matter from 'gray-matter';
 
 // we have to bring data dynamically
 const dirContent = fs.readdirSync('content', 'utf-8')
-console.log(dirContent);
+
 
 const blogs = dirContent.map(file => {
   const fileContent = fs.readFileSync(`content/${file}`, 'utf-8');
